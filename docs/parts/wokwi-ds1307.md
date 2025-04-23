@@ -23,7 +23,7 @@ The I2C address of the DS1307 is 0x68.
 
 | Name       | Description                                                          | Default value |
 |------------|----------------------------------------------------------------------|---------------|
-| `initTime` | Initial time of the RTC: "0", "now", or a valid ISO 8601 date string | "now"         |
+| `initTime` | Initial time of the RTC: "0", "now", or a valid ISO 8601 date strin | "now"         |
 
 ## Simulation Behavior
 
